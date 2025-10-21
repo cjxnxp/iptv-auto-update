@@ -1,198 +1,5 @@
 注意事项,#genre#
-20251020031733仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
-央卫视,#genre#
-CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
-CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
-CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
-CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
-CCTV-02高码,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
-CCTV-03高码,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
-CCTV-03高码,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
-CCTV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
-CCTV-05高码,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
-CCTV-05高码,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
-CCTV-06高码,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-CCTV-06高码,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
-CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
-CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
-CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
-CCTV-08高码,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
-CCTV-08高码,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
-CCTV-10高码,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
-CCTV-10高码,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
-CCTV-11高码,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
-CCTV-11高码,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
-CCTV-12高码,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
-CCTV-12高码,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
-CCTV-13高码,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
-CCTV-14高码,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
-CCTV-14高码,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
-CCTV-15高码,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
-CCTV-16高码,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
-CETV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
-CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
-北京卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
-东方卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
-东方卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
-浙江卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-江苏卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
-湖南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
-广东卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
-深圳卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
-天津卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
-安徽卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-山东卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
-山西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
-辽宁卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
-河北卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
-河南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
-江西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
-四川卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
-重庆卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-贵州卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
-湖北卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
-广西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
-广西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
-云南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
-云南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
-东南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
-海南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
-甘肃卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
-青海卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
-吉林卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
-吉林卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
-黑龙江视高码,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
-龙江🇨🇳地方,#genre#
-哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-哈尔滨综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-哈尔滨新闻,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
-哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨都市,https://stream.hrbtv.net/zxpd/sd/live.m3u8
-哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
-林甸综合,https://masterpull.hljtv.com/live/23PN6NW9.m3u8
-鸡西新闻,https://masterpull.hljtv.com/live/uqFwlQDH.m3u8
-绥化综合,https://rmplive.hljtv.com/live/suihua.m3u8
-抚远电视台,https://rmplive.hljtv.com/live/fuyuan.m3u8
-桦南综合,https://rmplive.hljtv.com/live/huanan.m3u8
-汤原综合,https://rmplive.hljtv.com/live/tangyuan.m3u8
-安达综合,https://rmplive.hljtv.com/live/anda.m3u8
-海伦综合,https://rmplive.hljtv.com/live/hailun.m3u8
-齐齐哈尔新闻,https://rmplive.hljtv.com/live/qiqihaer.m3u8
-伊春综合,https://rmplive.hljtv.com/live/yichun.m3u8
-鹤岗新闻,https://rmplive.hljtv.com/live/hegang.m3u8
-七台河新闻,https://rmplive.hljtv.com/live/qitaihe.m3u8
-黑河新闻,https://rmplive.hljtv.com/live/heihe.m3u8
-林甸综合,https://rmplive.hljtv.com/live/lindian.m3u8
-明水综合,https://rmplive.hljtv.com/live/mingshui.m3u8
-庆安综合,https://rmplive.hljtv.com/live/qingan.m3u8
-青冈综合,https://rmplive.hljtv.com/live/qinggang.m3u8
-绥棱综合,https://rmplive.hljtv.com/live/suileng.m3u8
-望奎综合,https://rmplive.hljtv.com/live/wangkui.m3u8
-肇东综合,https://rmplive.hljtv.com/live/zhaodong.m3u8
-宾县综合频道,https://rmplive.hljtv.com/live/binxian.m3u8
-巴彦电视台,https://rmplive.hljtv.com/live/bayan.m3u8
-方正综合,https://rmplive.hljtv.com/live/fangzheng.m3u8
-尚志新闻综合,https://rmplive.hljtv.com/live/shangzhi.m3u8
-呼兰综合,https://rmplive.hljtv.com/live/hulan.m3u8
-五常综合,https://rmplive.hljtv.com/live/wuchang.m3u8
-通河新闻,https://rmplive.hljtv.com/live/tonghe.m3u8
-依兰新闻综合,https://rmplive.hljtv.com/live/yilan.m3u8
-延寿综合,https://rmplive.hljtv.com/live/yanshou.m3u8
-北安综合,https://rmplive.hljtv.com/live/beian.m3u8
-孙吴综合,https://rmplive.hljtv.com/live/sunwu.m3u8
-五大连池综合,https://rmplive.hljtv.com/live/wudalianchi.m3u8
-东宁综合,https://rmplive.hljtv.com/live/dongning.m3u8
-海林综合,https://rmplive.hljtv.com/live/hailin.m3u8
-林口综合,https://rmplive.hljtv.com/live/linkou.m3u8
-穆棱综合,https://rmplive.hljtv.com/live/muleng.m3u8
-宁安综合,https://rmplive.hljtv.com/live/ningan.m3u8
-绥芬河综合,https://rmplive.hljtv.com/live/suifenhe.m3u8
-铁力综合频道,https://rmplive.hljtv.com/live/tieli.m3u8
-拜泉综合,https://rmplive.hljtv.com/live/baiquan.m3u8
-富裕综合,https://rmplive.hljtv.com/live/fuyu.m3u8
-甘南县综合,https://rmplive.hljtv.com/live/gannan.m3u8
-克东综合,https://rmplive.hljtv.com/live/kedong.m3u8
-克山综合,https://rmplive.hljtv.com/live/keshan.m3u8
-龙江综合,https://rmplive.hljtv.com/live/longjiang.m3u8
-讷河综合,https://rmplive.hljtv.com/live/nehe.m3u8
-泰来综合,https://rmplive.hljtv.com/live/tailai.m3u8
-依安综合,https://rmplive.hljtv.com/live/yian.m3u8
-呼玛综合,https://rmplive.hljtv.com/live/huma.m3u8
-漠河综合,https://rmplive.hljtv.com/live/mohe.m3u8
-塔河综合,https://rmplive.hljtv.com/live/tahe.m3u8
-虎林综合,https://rmplive.hljtv.com/live/hulin.m3u8
-鸡东综合,https://rmplive.hljtv.com/live/jidong.m3u8
-饶河综合,https://rmplive.hljtv.com/live/raohe.m3u8
-友谊综合,https://rmplive.hljtv.com/live/youyi.m3u8
-勃利综合频道,https://rmplive.hljtv.com/live/boli.m3u8
-依兰综合,https://masterpull.hljtv.com/live/4sTJDdbE.m3u8
-巴彦综合,https://masterpull.hljtv.com/live/vAtZi96R.m3u8
-五常综合,https://masterpull.hljtv.com/live/R9bOklLT.m3u8
-通河综合,https://masterpull.hljtv.com/live/b71kCDir.m3u8
-尚志综合,https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
-延寿综合,https://masterpull.hljtv.com/live/XBqKssjB.m3u8
-方正综合,https://masterpull.hljtv.com/live/sSN2Uyb2.m3u8
-龙江综合,https://masterpull.hljtv.com/live/vRSdDMSR.m3u8
-依安综合,https://masterpull.hljtv.com/live/4hhgo1mX.m3u8
-泰来综合,https://masterpull.hljtv.com/live/cfkAgOUK.m3u8
-富裕综合,https://masterpull.hljtv.com/live/MKFLhcpa.m3u8
-克山综合,https://masterpull.hljtv.com/live/58lOw0L5.m3u8
-克东综合,https://masterpull.hljtv.com/live/PO1DiGiN.m3u8
-讷河综合,https://masterpull.hljtv.com/live/PXWxDY1V.m3u8
-甘南综合,https://masterpull.hljtv.com/live/YbFyF4Jb.m3u8
-拜泉综合,https://masterpull.hljtv.com/live/zHtOXXUz.m3u8
-绥芬河综合,https://masterpull.hljtv.com/live/pXxFNIbi.m3u8
-宁安综合,https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
-海林综合,https://masterpull.hljtv.com/live/lqo9Fcdy.m3u8
-穆棱新闻综合,https://masterpull.hljtv.com/live/5c9Mi3FV.m3u8
-东宁综合,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
-佳木斯新闻综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
-同江综合,https://masterpull.hljtv.com/live/oFc7fCUf.m3u8
-富锦综合,https://masterpull.hljtv.com/live/wOBN3GqO.m3u8
-桦川综合,https://masterpull.hljtv.com/live/NYQcW0fS.m3u8
-桦南综合,https://masterpull.hljtv.com/live/76oCVZd3.m3u8
-汤原综合,https://masterpull.hljtv.com/live/lt2CmppY.m3u8
-抚远综合,https://masterpull.hljtv.com/live/tVnkOTOG.m3u8
-大庆新闻,https://masterpull.hljtv.com/live/4WdrZLCq.m3u8
-肇州综合,https://masterpull.hljtv.com/live/imOHYJ77.m3u8
-肇源综合,https://masterpull.hljtv.com/live/XkQg7QSI.m3u8
-鸡东综合,https://masterpull.hljtv.com/live/o4NExHSz.m3u8
-虎林综合,https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
-友谊综合,https://masterpull.hljtv.com/live/LVpBWYXl.m3u8
-宝清综合,https://masterpull.hljtv.com/live/HBp9MLoA.m3u8
-饶河综合,https://masterpull.hljtv.com/live/DokNxER6.m3u8
-伊春综合,https://masterpull.hljtv.com/live/vQtnS3vX.m3u8
-嘉荫综合,https://masterpull.hljtv.com/live/k5IX9frJ.m3u8
-铁力综合,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
-七台河新闻综合,https://masterpull.hljtv.com/live/9FZ7k2XF.m3u8
-勃利综合,https://masterpull.hljtv.com/live/6rx9bifO.m3u8
-鹤岗新闻综合,https://masterpull.hljtv.com/live/rApKWXbX.m3u8
-绥滨综合,https://masterpull.hljtv.com/live/DQiqZPCj.m3u8
-绥化新闻综合,https://masterpull.hljtv.com/live/v4o2g1hs.m3u8
-望奎综合,https://masterpull.hljtv.com/live/d3loVdqX.m3u8
-兰西综合,https://masterpull.hljtv.com/live/SYG06DEw.m3u8
-青冈综合,https://masterpull.hljtv.com/live/bJGIloJe.m3u8
-庆安综合,https://masterpull.hljtv.com/live/ayksl1Ur.m3u8
-明水综合,https://masterpull.hljtv.com/live/bOJ0OStw.m3u8
-绥棱综合,https://masterpull.hljtv.com/live/p7WSvrJJ.m3u8
-安达综合,https://masterpull.hljtv.com/live/FsGxlDZQ.m3u8
-肇东综合,https://masterpull.hljtv.com/live/G84ZsUTP.m3u8
-海伦综合,https://masterpull.hljtv.com/live/VFNlgeFO.m3u8
-黑河新闻综合,https://masterpull.hljtv.com/live/iyoENgSP.m3u8
-嫩江综合,https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
-孙吴综合,https://masterpull.hljtv.com/live/eXFjvNaf.m3u8
-北安综合,https://masterpull.hljtv.com/live/EfoBDa06.m3u8
-五大连池综合,https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
-大兴安岭新闻综合,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
-呼玛综合,https://masterpull.hljtv.com/live/yN3vDovm.m3u8
-塔河综合,https://masterpull.hljtv.com/live/qXrATpGj.m3u8
-漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
+20251021030721仅供测试自用如有侵权请通知,http://rihou.cc:555/mp4?id=lndjll.mp4
 斗鱼轮播,#genre#
 怡宝妹妹丶,http://tv.ximix.us/douyu/434971
 橙記Orange丶,http://tv.ximix.us/douyu/4549169
@@ -3187,28 +2994,14 @@ CGTN,http://sc.rrs.169ol.com/PLTV/88888888/224/3221227391/index.m3u8
 坐月子那点儿事-熊乃瑾付辛博,https://vdse.bdstatic.com//be5cb6ace9182fad443a16148c3a9cdb.mp4
 oh买尬-宋小宝柳岩,https://vd3.bdstatic.com/mda-pjacxatgd4fu4svh/sc/cae_h264/1697040275219723394/mda-pjacxatgd4fu4svh.mp4
 TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/1709780957602048364/mda-qc64dz3a7dai9wmn.mp4
-英超粤评,#genre#
-10-21英超第8轮⚽📡,http://81.70.10.196:35455/douyu/11531165
-03:00韦斯咸🆚屈福特,https://suo.yt/a3xFctm
-粤🔊赛事旁述
-粤🔊赛事旁述,https://suo.yt/a3xFctm
-国🔊赛事评述,https://suo.yt/a3xFctm
-国🔊赛事评述
-意甲赛评,#genre#
-10-21意甲第7轮⚽📡,http://81.70.10.196:35455/douyu/11531165
-02:45克雷莫纳🆚乌甸尼斯,https://suo.yt/a3xFctm
-国🔊赛事旁述,https://suo.yt/a3xFctm
-西甲赛评,#genre#
-10-21西甲第9轮⚽📡,http://81.70.10.196:35455/douyu/11531165
-03:00阿拉维斯🆚华伦西亚,https://suo.yt/a3xFctm
 亚冠赛评,#genre#
 10-21亚冠精英赛分组东区⚽📡,http://81.70.10.196:35455/douyu/11531165
 18:00成都蓉城🆚柔佛新山,https://suo.yt/a3xFctm
-国🔊赛事评述1,https://suo.yt/a3xFctm
-国🔊赛事旁述1,https://suo.yt/a3xFctm
+国🔊贺宇评述,https://migu.188766.xyz/play?migutoken=b899289dd01b778aebe6c5ef47bbfef8&id=K0W%2FQAp23QQFcJPQf2XVZs%2BABT50ATU5vcM4xvOlaPp%2B9g%2FWbwRI5DDGSa1tQTUI7C2zpgEN6LdFxEuZ3pMhLNmocgoZ38cgFbUdqk8mJ1WRUo2y5Xe2vP2z%2BBq21styQ19NAtuWQQTqj0Jptk42dCwagK74xoolNuqq1Y6LqmzmiLpvcRUp2tMoYzPoMhKEIedyk0Qx2Et4I9ir%2F3NjkQ%3D%3D&name=1VA7bDsAEliVxsA1%2BAj2G%2FcmVQDV50BfULx0hGnx%2BkibNhb1l%2BBa8XyWuluoMtgVEEjM8zYDG6H6FI4t86Z7AXszIdeClJPoXZVL53GUkBoadwetjE27OeGkVmA4R7iYtO7y71%2FkvsnqaBP6AqrC4Q%3D%3D
+原🔊赛场原声,https://migu.188766.xyz/play?migutoken=cb31a6ecbbf6b53439e089ae2653caa0&id=feNc71k4O5%2FRMIhTeT%2F6hFpdhyyCIVeQVeMcc62Cc7wrl1IV2soBvJUTC9uDU3BciuHTyAjh7RDuCU1G4yzaDlPSkDcyvoaKkZQNHqFAxH%2Bqrc4vYqdx59vHyIbOwhjE0QzaO2q2AtsIcIgz2tWaCuBYNiO6uKSEUjErk3bcKiaJC4WnSMoOO5DDq4xFeme%2FFsg4Fy6LbcJ%2ByRUm77jS5w%3D%3D&name=gI0vHAzk31yjJ2FDIFkRYSV12VAnVBOpvRUMt3n57bOtrOiYs5OWVKR77LV7nBrWdNPy8CMu8O%2FIL0U3PS5YcVOhiV6VivJYnulVaCYeBHEWGDD9CTQei4bpkEwdgqVaC7Oq%2BrceNiYBj4cjzdB%2F9g%3D%3D
 20:15上海海港🆚町田泽维亚,https://suo.yt/a3xFctm
-国🔊赛事评述2,https://suo.yt/a3xFctm
-国🔊赛事旁述2,https://suo.yt/a3xFctm
+国🔊李彦评述,https://migu.188766.xyz/play?migutoken=93ab156f27ed5c030ed9309e918508ae&id=6sUPuqB%2FFbNLwm5XNxxXFmLNkHZR1IuPqc%2F1AzeRiJIQx00JgqhA9A6tcpP4%2Buuwrj6MDTYQQ949MW19ezi9DFZe%2BdTduh%2ByktYKI%2Fa08NC%2FIy76hIj2Qcome35Yoi8e2kikAnx9X3tY2%2FL0pVHdmasbOyVK15JMHkReFjgEL4IpjmtGSqs0ZPuoHBFX%2B3C6xgV34YOtF8l8KOp8VsXJCw%3D%3D&name=DmJIYY5YTDdbeOkjgDGgQCB2W5%2FgeApWWE%2Bsi%2BIBSfu4UsySEl7IzHFxwanrJBiGQeMHLWttzQsaXIPtzEbqGeS8ghd4V4rI5pqXk0lVE8hUWVc%2F18qj5wo8lT880yDl83Jrun0rWjLbnZuFLh5LOXMDWvHS3rrNf33pfQmTdCk%3D
+原🔊赛事原声,https://migu.188766.xyz/play?migutoken=39d533c57a270c2343686b1ef51b0efb&id=2LXTj03jDvvetvITKEjY071c8MFI0mCA0hhvPeitUM6f5zCT1yHS0qPq6l3K4%2FVahZjoC%2F7fcrUCq5DnDSkD6vO8B3TuXMLeMJDjig0IdzyZ6duXFPI9rECHeGBi4T%2BB1Z9RNVVS9HnnPfp3uW4%2BGrpUWYyJD9n%2Ftndh02wHehu6aV8LhkW0JY5aySvHBV0jB42H6hF%2BK75PKYbNZ36GPQ%3D%3D&name=cWcQ2pJt5BIkg1Rhc2hNjXSR29aMgH788l1dXAs29o2rYHfihYkj7%2FpPdtbHfIgS0t1s%2FU7tNz6UwdIEF6Js%2BcJRXfBVJH3ktJDKreh3MSzdEMSQh08hDNZofdslbgfqqFWuXO8vyNjCDgMaZVEuJA%3D%3D
 全篮赛评,#genre#
 10-21全运会男篮赛🏀📡,http://81.70.10.196:35455/douyu/11531165
 20:00广东全运🆚西班牙,https://suo.yt/a3xFctm
@@ -3216,8 +3009,10 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 NBA赛评,#genre#
 10-22NBA常规赛🏀📡,http://81.70.10.196:35455/douyu/11531165
 07:30雷霆🆚火箭,https://suo.yt/a3xFctm
+粤🔊赛事旁述
 粤🔊赛事旁述1,https://suo.yt/a3xFctm
 国🔊咪咕评述1,https://suo.yt/a3xFctm
+国🔊赛事评述
 10:00湖人🆚勇士,https://suo.yt/a3xFctm
 粤🔊赛事旁述2,https://suo.yt/a3xFctm
 国🔊咪咕评述2,https://suo.yt/a3xFctm
@@ -3506,8 +3301,10 @@ Plus综合实时,http://vallest.uk/livehttpplay?channel_id=30023
 凤凰中文实时,http://vallest.uk/livehttpplay?channel_id=30014
 凤凰资讯实时,http://vallest.uk/livehttpplay?channel_id=30015
 凤凰香港实时,http://vallest.uk/livehttpplay?channel_id=30016
-有线综合实时,http://vallest.uk/livehttpplay?channel_id=20152
+中天新闻实时,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
+有线新闻实时,http://hls.168.us.kg/u/78/master.m3u8
 无线新闻实时,http://vallest.uk/livehttpplay?channel_id=30024
+有线综合实时,http://vallest.uk/livehttpplay?channel_id=20152
 无线翡翠实时,http://vallest.uk/livehttpplay?channel_id=20124
 无线明珠实时,http://vallest.uk/livehttpplay?channel_id=30026
 VIUTV粤实时,http://vallest.uk/livehttpplay?channel_id=30032
@@ -3521,14 +3318,8 @@ Plus综合风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBPLUS
 凤凰香港风云,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 中天新闻风云,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
 中天新闻风云,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
-中天新闻风加,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
+中天新闻加云,rtmp://hc.siqianginfo.com/live/yifatv-ztxw02
 有线新闻风云,http://hls.168.us.kg/u/78/master.m3u8
-有线新闻风云,https://live.catvod.com/live.php?id=hoycaijing_twn&token=1eff9067e86486b8582ee7508509674dc79ba435ea891121e74dee56bc9890a9%3A1760635044%3AMTQuMTE3LjE2OS4xNQ%3D%3D
-有线新闻风云,http://51.89.166.17:3002/index.php?id=hoycaijing_twn
-有线新闻风云,http://feng163.com:8003/bysid/78.m3u8
-有线新闻风云,http://beishan008.asuscomm.com:8891/bysid/78.m3u8
-有线新闻风云,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-9-0.html
-有线新闻风云,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-7-0.html
 无线新闻风云,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
 Now新闻风云,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 有线综合风云,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
@@ -3561,6 +3352,7 @@ tvbs台剧风云,http://iptv.4666888.xyz/iptv2A.php?id=TVBS台剧
 Now新闻频道,http://iptv.4666888.xyz/iptv2A.php?id=NOW新闻
 Now新闻频道,http://bxtv.3a.ink/api.php?id=now
 Now新闻频道,http://cdn.163189.xyz/163189/now
+pₒₚc电影频道,http://tl.061833.xyz/tl/popc
 pₒₚc电影频道,http://bxtv.3a.ink/api.php?id=popc
 pₒₚc电影频流,http://tl.061833.xyz/tl/popc
 Plus综合频流,http://tl.061833.xyz/tl/pluse
@@ -3764,6 +3556,47 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 重温经典频道,http://120.76.248.139/live/bfgd/4200000635.m3u8
 邵氏影院频视,http://81.70.10.196:35455/douyu/4246519
 新剧追更,#genre#
+⬇️暗河传40⬇️,https://suo.yt/a3xFctm
+暗河传第01集,http://jx.999315.xyz/yzzy/20251020/6128_b72a5a09/index.m3u8
+暗河传第02集,http://jx.999315.xyz/yzzy/20251020/3116_58191d2a/index.m3u8
+暗河传第03集,http://jx.999315.xyz/yzzy/20251020/3117_8b313cbf/index.m3u8
+暗河传第04集,http://jx.999315.xyz/yzzy/20251020/20816_d6f7f74d/index.m3u8
+暗河传第05集,http://jx.999315.xyz/yzzy/20251020/20817_3be09591/index.m3u8
+暗河传第06集
+暗河传第07集
+暗河传第08集
+暗河传第09集
+暗河传第10集
+暗河传第11集
+暗河传第12集
+暗河传第13集
+暗河传第14集
+暗河传第15集
+暗河传第16集
+暗河传第17集
+暗河传第18集
+暗河传第19集
+暗河传第20集
+暗河传第21集
+暗河传第22集
+暗河传第23集
+暗河传第24集
+暗河传第25集
+暗河传第26集
+暗河传第27集
+暗河传第28集
+暗河传第29集
+暗河传第30集
+暗河传第31集
+暗河传第32集
+暗河传第33集
+暗河传第34集
+暗河传第35集
+暗河传第36集
+暗河传第37集
+暗河传第38集
+暗河传第39集
+暗河传第40集
 ⬇️余生有涯18⬇️,https://suo.yt/a3xFctm
 余生有涯01集,http://jx.999315.xyz/yzzy/20251016/20458_4cd4a3c3/index.m3u8
 余生有涯02集,http://jx.999315.xyz/yzzy/20251016/2686_3a0844ce/index.m3u8
@@ -3775,8 +3608,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 余生有涯08集,http://jx.999315.xyz/yzzy/20251018/20662_c4c0466a/index.m3u8
 余生有涯09集,http://jx.999315.xyz/yzzy/20251019/20780_e35d364e/index.m3u8
 余生有涯10集,http://jx.999315.xyz/yzzy/20251019/6094_ce5193a0/index.m3u8
-余生有涯11集
-余生有涯12集
+余生有涯11集,http://jx.999315.xyz/yzzy/20251020/3119_f42c7f9c/index.m3u8
+余生有涯12集,http://jx.999315.xyz/yzzy/20251020/3119_f42c7f9c/index.m3u8
 余生有涯13集
 余生有涯14集
 余生有涯15集
@@ -3809,8 +3642,8 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 宴遇永安23集,http://jx.999315.xyz/yzzy/20251018/20657_d1c56ec7/index.m3u8
 宴遇永安24集,http://jx.999315.xyz/yzzy/20251019/20779_ce003cad/index.m3u8
 宴遇永安25集,http://jx.999315.xyz/yzzy/20251019/6093_1438ecb8/index.m3u8
-宴遇永安26集
-宴遇永安27集
+宴遇永安26集,http://jx.999315.xyz/yzzy/20251020/3118_f0031c7a/index.m3u8
+宴遇永安27集,http://jx.999315.xyz/yzzy/20251020/20831_1f9aa476/index.m3u8
 宴遇永安28集
 宴遇永安29集
 宴遇永安30集
@@ -3841,7 +3674,7 @@ momo'tv频道,rtmp://f13h.mine.nu/sat/tv761
 入青云第22集,http://jx.999315.xyz/yzzy/20251018/5911_84a955d5/index.m3u8
 入青云第23集,http://jx.999315.xyz/yzzy/20251019/6077_58182b82/index.m3u8
 入青云第24集,http://jx.999315.xyz/yzzy/20251019/6078_5f8a7deb/index.m3u8
-入青云第25集
+入青云第25集,https://cdn.yzzy28-play.com/20251020/20823_30aaa035/index.m3u8
 入青云第26集
 入青云第27集
 入青云第28集
@@ -3920,6 +3753,67 @@ SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
 睛彩篮球高码,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩广场高码,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
 五星体育高码,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
+CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+CCTV-01高码,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
+CCTV-02高码,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV-03高码,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV-03高码,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
+CCTV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV-05高码,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV-05高码,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+CCTV-06高码,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV-06高码,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
+CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
+CCTV-07高码,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
+CCTV-08高码,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV-08高码,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
+CCTV-10高码,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV-10高码,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV-11高码,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
+CCTV-11高码,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV-12高码,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
+CCTV-12高码,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV-13高码,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV-14高码,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV-14高码,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+CCTV-15高码,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV-16高码,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CETV-01高码,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
+CETV-04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+北京卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
+东方卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+东方卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+浙江卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+江苏卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+湖南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+广东卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
+深圳卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+天津卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+安徽卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+山东卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
+山西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+辽宁卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
+河北卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
+河南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+江西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
+四川卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
+重庆卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+贵州卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+湖北卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+广西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+广西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+云南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
+云南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
+东南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+海南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+甘肃卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
+青海卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
+吉林卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
+吉林卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+黑龙江视高码,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
 东方影视高码,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方财经高码,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
 第一财经高码,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
